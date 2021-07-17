@@ -9,3 +9,5 @@ La aplicación agrega y elimina datos de manera dinamica por medio del manejo de
 ## Manejo de paradigma Orientado a Objetos
 
 Los ingresos y egresos son tratados en JavaScript como objetos hijos de una clase padre llamada dato y para su manejo se crea un arreglo de objetos de cada uno.
+
+![imagendel sitio](https://github.com/valentinatobo/Pagina-Web-Cuentas---Manejo-DOM-JS/blob/main/Pagina.PNG)
